@@ -7,5 +7,5 @@ npm install
 ```
 Start live server
 ```
-npm run start
+npm run dev
 ```

@@ -1,0 +1,13 @@
+{
+  "name": "1f2d-downloads-website",
+  "version": "1.0.0",
+  "description": "Downloads website front-end project for 1f2d Minecraft server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realLaggermaster/1f2d-Downloads-Website.git"
+  },
+  "type": "commonjs"
+}

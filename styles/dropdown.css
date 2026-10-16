@@ -1,0 +1,41 @@
+.content {
+    background-image: url("../../assets/images/bgt_ffffff33_tm.png");
+    background-repeat: repeat-x;
+    background-origin: border-box;
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #343434;
+    background-color: #1a1a1a;
+}
+
+.dropdown-toggle {
+    height: 30px;
+    line-height: 30px;
+    cursor: pointer;
+    padding: 0 12px;
+    font-family: "Trebuchet MS", Trebuchet, Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-shadow: 2px 2px 0px #000000;
+    color: #EBB90D;
+}
+
+.text-download {
+    font-size: 12px;
+    color: #EBB90D;
+}
+
+a.text-download {
+    font-weight: 800;
+    font-size: 12px;
+    color: #EBB90D;
+}
+
+a.text-download:hover {
+    font-size: 12.5px;
+    text-shadow: 2px 2px 0px #000000;
+}
+
+.dropdown-menu a {
+    text-decoration: none;
+}
